@@ -1,13 +1,13 @@
 # See book at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: book-template
-  title: My FAIR-EASE Book
+  id: uc513-volcano-space-observatory
+  title: Volcano Space Observatory
   description: Blabla to be completed
-  github: https://github.com/fair-ease/doc-jupyterbook-template
-  jupyter:
-    lite: true
-    binder: true
+  github: https://github.com/fair-ease/book-volcano-space-observatory
+#  jupyter:
+#    lite: true
+#    binder: true
   keywords: ["FAIR-EASE", "book"]
   open_access: true
   license:
@@ -15,16 +15,15 @@ project:
       id: CC-BY-4.0
     code:
       id: LGPL-3.0-only
-  authors:
-    - id: ebodere
-      name: Erwan Bodéré
-      orcid: 0000-0002-0507-4274
-      affiliations:
-        - id: ifremer
-          institution: Ifremer
-          ror: 044jxhp58
-          department: Research Infrastructure and Information Systems
-  exclude:
+#  authors:
+#    - id: ebodere
+#      name: Erwan Bodéré
+#      orcid: 0000-0002-0507-4274
+#      affiliations:
+#        - id: ifremer
+#          institution: Ifremer
+#          ror: 044jxhp58
+#          department: Research Infrastructure and Information Systems
 
 
 site:
