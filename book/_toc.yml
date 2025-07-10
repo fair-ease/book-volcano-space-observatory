@@ -1,0 +1,20 @@
+format: jb-book
+root: index
+chapters:
+- file: 01-narrative-content/index
+  sections:
+  - file: 01-narrative-content/why_degassing
+  - file: 01-narrative-content/why_deformation
+  - file: 01-narrative-content/why_joint
+- file: 02-overview-degassing/index
+  sections:
+  - file: 02-overview-degassing/focus_tropomi
+  - file: 02-overview-degassing/from_mass_to_flux
+- file: 03-volcplume/index
+  sections:
+  - file: 03-volcplume/connect_volcplume
+  - file: 03-volcplume/compute_mass
+- file: 09-notebook/index
+  sections:
+  - file: 09-notebook/code.ipynb
+  - file: 09-notebook/SO2_Piton_VolcanoUseCaseGaiaData.ipynb
