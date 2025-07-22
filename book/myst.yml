@@ -5,9 +5,9 @@ project:
   title: Volcano Space Observatory
   description: Blabla to be completed
   github: https://github.com/fair-ease/book-volcano-space-observatory
-#  jupyter:
-#    lite: true
-#    binder: true
+  jupyter:
+    lite: true
+    binder: true
   keywords: ["FAIR-EASE", "book"]
   open_access: true
   license:
