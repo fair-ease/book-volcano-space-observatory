@@ -1,9 +1,12 @@
 --extra-index-url https://git.icare.univ-lille.fr/api/v4/projects/661/packages/pypi/simple
+--extra-index-url https://gitlab.in2p3.fr/api/v4/projects/31143/packages/pypi/simple
+
 
 # mandatory dependencies (DO NOT REMOVE)
 jupyter-book
 jupyter-book>=2.0.0a0
 ghp-import
+so2-tropomi
 so2-flux-calculator
 
 # project dependencies are under .binder/requirements.txt
