@@ -2,12 +2,16 @@
 
 In this book, we will focus on estimating SO2 flux from data acquired by the TROPOMI sensor, onboard of Sentinel-5P.
 
-<iframe src="https://www.esa.int/content/view/embedjw/489587" width="640" height="360" frameborder="0"></iframe>
+<iframe src="https://www.esa.int/content/view/embedjw/491809" width="640" height="360" frameborder="0"></iframe>
 
 ## How is TROPOMI/Sentinel-5P data acquired?
 
+
 Sentinel-5P evolves on a [polar orbit](https://en.wikipedia.org/wiki/Polar_orbit), around 824 km altitude. The main instrument carried by Sentinel-5P is TROPOMI, a UV-visible imaging spectrometer.
 The TROPOMI sensor captures solar radiation backscattered by Earth and atmosphere.
+
+<iframe src="https://www.esa.int/content/view/embedjw/490085?autoplay=1&mute=1" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+
 TROPOMI generates images of the vertically-integrated concentration of SO2 («Column amount»), every day, at global scale.
 
 ```{image} content/tropomi_acquisition_geometry.jpg
