@@ -2,5 +2,7 @@
 jupyter-book
 jupyter-book>=2.0.0a0
 ghp-import
+matplotlib
+numpy
 
 # project dependencies are under .binder/requirements.txt
