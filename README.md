@@ -4,14 +4,8 @@
 
 Go directly to the deployed book => [https://lab.fairease.eu/book-volcano-space-observatory/](https://lab.fairease.eu/book-volcano-space-observatory/)
 
+![FAIR-EASE VSO logo](book/content/logo_fair_ease_large.jpg)
 
-```{image} book/content/logo_fair_ease_large.jpg 
-:alt: fair_ease_VSO_logo
-:align: center
-```
-
-[logo_VSO]: book/content/logo_fair_ease_large.jpg #center "VSO F-E logo"
-![VSO FAIR-EASE logo][logo_VSO]
 
 ## Install the project
 
