@@ -1,3 +1,4 @@
+--extra-index-url https://git.icare.univ-lille.fr/api/v4/projects/661/packages/pypi/simple
 numpy
 pandas
 plotly
@@ -6,3 +7,5 @@ ipyleaflet
 ipywidgets
 ipykernel
 jupytext
+so2-flux-calculator
+
